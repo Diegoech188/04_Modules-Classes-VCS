@@ -3,9 +3,6 @@
 ## Descripción
 Este proyecto se centra en la implementación de estrategias de trading utilizando técnicas de Deep Learning. Se trabajará con conjuntos de datos de entrenamiento y validación (aapl_5m_train.csv, aapl_5m_validation.csv) para optimizar y probar estrategias de trading. Los mismos conjuntos de datos utilizados en el proyecto anterior se emplearán para comparar los resultados obtenidos mediante análisis técnico, aprendizaje automático (Machine Learning) y aprendizaje profundo (Deep Learning).
 
-## Capturas de Pantalla
-![Captura de Pantalla 1](/screenshots/screenshot1.png)
-
 ## Instalación
 1. Clone el repositorio: `git clone https://github.com/Diegoech188/04_Modules-Classes-VCS.git`
 2. Navegue al directorio del proyecto: `cd 04_Modules-Classes-VCS`
